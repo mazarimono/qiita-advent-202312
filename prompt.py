@@ -1,0 +1,1 @@
+first_prompt = f'plotlyのdata.gapminderのデータを使って、散布図を作成するアプリケーションを{framework_name}で作ってください。概要は次の画像を参考にしてください。'
